@@ -22,6 +22,7 @@ public class Main {
 
         CustomNetwork.saveTrainedNetwork(multiLayerNetwork, "net17.zip");
 
+        System.out.println("start");
         System.out.println("COMPLETE");
     }
 }
