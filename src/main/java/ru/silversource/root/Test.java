@@ -18,5 +18,6 @@ public class Test {
         CustomNetwork.testingNetwork(folderPathTest, multiLayerNetwork);
 
         System.out.println("COMPLETE");
+        System.out.println("COMPLETE");
     }
 }
